@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromAlpha="0.0"
+    android:toAlpha="1.0"
+    android:duration="700"/>
+<!--
+Щодо тривалості:
+FPS - 60-120 (17-8 мс)
+Сприйняття зору (24 FPS) - 40 мс
+Тактильна реакція - 150 мс
+-->
